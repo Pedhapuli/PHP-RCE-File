@@ -1,6 +1,4 @@
-<?php
 // vulnerable.php
-
 <html>
 <body>
 <form method="GET" name="<?php echo basename($_SERVER['PHP_SELF']); ?>">
