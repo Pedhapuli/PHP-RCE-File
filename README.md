@@ -1,4 +1,5 @@
-# php-rce-file
+<?php
+// vulnerable.php
 
 <html>
 <body>
